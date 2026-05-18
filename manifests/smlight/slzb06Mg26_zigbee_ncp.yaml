@@ -8,7 +8,7 @@ toolchain: "12.2.1.20221205"
 gbl:
   fw_type: zigbee_ncp
   ezsp_version: dynamic
-  baudrate: 115200
+  baudrate: 460800
   fw_variant: sw_flow
 
 slcp_defines:
